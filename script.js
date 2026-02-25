@@ -24,7 +24,7 @@ name: "Calculater: Demon",
 developer: "Demon Studio && Deepak Chaisir",
 icon: "cal.png",
 apk: "Demon Studio && Deepak Chaisir",
-comingSoon: true
+comingSoon: false
 },
 
 {
