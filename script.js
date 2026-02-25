@@ -20,8 +20,8 @@ comingSoon: true
 },
 
 {
-name: "Calculater: Demon",
-developer: "Demon Studio && Deepak Chaisir",
+name: "Calculater",
+developer: "This is the Calculater App Devloped by Demon Studio && Deepak Chaisir",
 icon: "cal.png",
 apk: "https://github.com/DeepakChaisir/Calculate-Demon/releases/download/v.1.0.0/Calculater.apk",
 comingSoon: false
