@@ -20,10 +20,10 @@ comingSoon: true
 },
 
 {
-name: "*******",
-developer: "Demon Dev",
-icon: "https://via.placeholder.com/150",
-apk: "#",
+name: "Calculater: Demon",
+developer: "Demon Studio && Deepak Chaisir",
+icon: "cal.png",
+apk: "Demon Studio && Deepak Chaisir",
 comingSoon: true
 },
 
