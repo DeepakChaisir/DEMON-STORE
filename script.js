@@ -23,7 +23,7 @@ comingSoon: true
 name: "Calculater: Demon",
 developer: "Demon Studio && Deepak Chaisir",
 icon: "cal.png",
-apk: "Calculater.apk",
+apk: "https://github.com/DeepakChaisir/Calculate-Demon/releases/download/v.1.0.0/Calculater.apk",
 comingSoon: false
 },
 
